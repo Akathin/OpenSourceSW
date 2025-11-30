@@ -1,6 +1,6 @@
 # Linux 프로세스 작업 도구 정리 (top / ps / jobs / kill)
 
-![terminal-sample](https://upload.wikimedia.org/wikipedia/commons/3/3f/Terminal_font_sample.png)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ---
 
@@ -10,8 +10,6 @@
 3. [ps](#ps) — 프로세스 스냅샷 조회  
 4. [jobs](#jobs) — 현재 셸의 백그라운드 작업 관리  
 5. [kill](#kill) — 프로세스에 신호 보내기  
-6. [조합 예제 & 실무 팁](#조합-예제--실무-팁)  
-7. [Cheat Sheet (한눈에 보기)](#cheat-sheet-한눈에-보기)  
 
 ---
 
