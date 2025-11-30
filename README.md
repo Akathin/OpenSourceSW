@@ -1,6 +1,6 @@
 # Linux 프로세스 작업 도구 정리 (top / ps / jobs / kill)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=리눅스%20명령어&fontSize=90)
 
 ---
 
